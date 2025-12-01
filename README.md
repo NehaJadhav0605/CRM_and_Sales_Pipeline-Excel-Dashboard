@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project involves building an interactive **CRM & Sales Pipeline Dashboard using Microsoft Excel** to analyze customer data, track sales performance, and monitor lead conversion across different stages of the sales funnel. The dashboard provides clear insights into revenue trends, sales efficiency, and overall business performance.
 
+<img width="1865" height="670" alt="CRM   Sales Pipeline Excel_Dashboard" src="https://github.com/user-attachments/assets/5e2e2077-582c-4535-94da-195610fbcb4e" />
+
 ## 🎯 Objectives
 - Analyze CRM and sales pipeline data
 - Track lead movement across different sales stages
@@ -68,3 +70,4 @@ Note: The dataset is publicly available and is used strictly for educational and
 ## 👩‍💻 Author
 **Neha Jadhav**  
 Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python  
+
